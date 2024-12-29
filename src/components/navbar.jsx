@@ -7,7 +7,7 @@ const Navbar = () => {
 
     return <nav className=" mb-20 flex items-center justify-between py-6">
         <div className="flex flex-shrink-0 item-center">
-            <h2>WEB AGENCY</h2>
+            <h2>WEBDEV AGENCY</h2>
 
         </div>
         <div className='m-8 flex items-center justify-center gap-4'>
